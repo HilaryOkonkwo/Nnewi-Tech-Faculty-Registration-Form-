@@ -49,6 +49,10 @@ nnewi-tech-canteen-menu/
 
 Contributions are welcomed! Feel free to fork this repository, make your changes, and submit a pull request with any improvements or new features.
 
+## License
+
+This project is under the [MIT License](LICENSE)
+
 ## Contact
 
 For any questions or feedback, reach out via:
