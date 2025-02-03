@@ -2,8 +2,8 @@ body {
     width: 100%;
     height: 100vh;
     margin: 0;
-    background-color:navy;
-    color: rgb(96, 230, 96);
+    background-color: #E66EB2;
+    color: #003B4A;
     font-family: Tahoma;
     font-size: 16px;
   }
@@ -24,7 +24,7 @@ body {
   fieldset {
     border: none;
     padding: 2rem 0;
-    border-bottom: 3px solid yellow;
+    border-bottom: 3px solid #D3D3D3;
   }
   
   fieldset:last-of-type {
@@ -45,8 +45,9 @@ body {
   }
   
   input, textarea {
-    background-color: #0a0a23;
+    background-color: #D3D3D3;
     border: 1px solid #0a0a23;
+    border-radius: 10px;
     color: #ffffff;
   }
   
@@ -63,7 +64,7 @@ body {
     height: 2em;
     font-size: 1.1rem;
     background-color: #070711;
-    border-color: white;
+    border-color: #070711;
     min-width: 300px;
   }
   
